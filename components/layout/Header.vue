@@ -6,12 +6,14 @@ const isOpen = ref(false);
 
 <template>
   <header class="fixed bg-primary top-0 w-full z-50">
-    <div class="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
+    <div
+      class="max-w-[1400px] mx-auto px-10 py-7 flex items-center justify-between"
+    >
       <!-- Logo -->
       <img src="/svgs/intellitoggle.svg" alt="IntelliToggle" class="h-12" />
 
       <!-- Desktop Navigation -->
-      <nav class="hidden md:flex gap-12 text-base font-medium cursor-pointer">
+      <nav class="hidden md:flex gap-10 text-base font-medium cursor-pointer">
         <!-- Active -->
         <a class="text-white"> Home </a>
 

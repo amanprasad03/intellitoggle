@@ -4,10 +4,10 @@
     style="background-image: url(&quot;/images/hero-home-bg.png&quot;)"
   >
     <div
-      class="pt-32 sm:pt-44 md:pt-56 pb-20 text-center px-4 md:px-6 relative z-10 flex flex-col items-center"
+      class="pt-36 sm:pt-48 md:pt-60 pb-20 text-center px-4 md:px-6 relative z-10 flex flex-col items-center"
     >
       <h2
-        class="text-[28px] sm:text-[36px] md:text-[48px] lg:text-[64px] font-bold leading-[1.2] sm:leading-[1.15] md:leading-[1.1] tracking-tight max-w-5xl"
+        class="text-[28px] sm:text-[36px] md:text-[52px] lg:text-[68px] font-bold leading-[1.15] sm:leading-[1.1] md:leading-[1.08] tracking-tight max-w-6xl"
       >
         The First
         <span
@@ -15,13 +15,11 @@
         >
           Dart-Native
         </span>
-        <span> Feature Flag </span>
-        <br class="hidden sm:block" />
-        With DartCodeAI
+        <span>Feature Flag With DartCodeAI</span>
       </h2>
 
       <p
-        class="mt-6 md:mt-8 max-w-xl md:max-w-2xl text-sm sm:text-base md:text-lg lg:text-[22px] font-medium text-white/90 leading-snug md:leading-relaxed px-4"
+        class="mt-8 md:mt-10 max-w-xl md:max-w-3xl text-sm sm:text-base md:text-[19px] lg:text-[23px] font-medium text-white/90 leading-snug md:leading-relaxed px-4"
       >
         Feature flags built for Dart. Ship faster, roll back
         <br class="hidden md:block" />
